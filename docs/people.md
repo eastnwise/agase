@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 조편성
+title: 구성원
 nav_order: 2 
 ---
 # 회원명부
