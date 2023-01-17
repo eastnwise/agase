@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 주보
+title: bulltin
 nav_order: 2 
 has_children: true
 permaklink: /docs/bulltin
