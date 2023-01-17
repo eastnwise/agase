@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 주보
+title: 테스트 
 nav_order: 2 
 has_children: true
 has_toc: true
