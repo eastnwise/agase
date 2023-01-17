@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 조편성
+nav_order: 2 
 ---
 
 # 조편성 
