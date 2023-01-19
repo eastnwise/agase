@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 구성원
-nav_order: 2 
+nav_order: 3 
+parmalink: /people
 ---
 # 회원명부
 
