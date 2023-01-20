@@ -17,5 +17,5 @@ permalink: /
 - 장소: 자양교회 교육관 9층
 
 [주보보기](last){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[구성원](people){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 }
-[활동일지](activity){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 }
+[구성원](people){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 .mr-2}
+[활동일지](activity){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 .mr-2}
