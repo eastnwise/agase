@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 섬기는자
-nav_order: 3 
-parmalink: /people
+title: 주요일정
+nav_order: 4 
+parmalink: /schedule
 ---
 # 회원명부
 
