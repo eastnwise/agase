@@ -19,3 +19,5 @@ permalink: /
 [최근 주보](last){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [구성원](people){: .btn .btn-blue .fs-5 .mb-4 .mb-md-0 .mr-2}
 [주요 일정](schedule){: .btn .btn-green .fs-5 .mb-4 .mb-md-0 .mr-2}
+
+
