@@ -13,5 +13,3 @@ parmalink: /schedule
 <!-- | 1월 22일 (일) 12:30 | 방학 | 설연휴 | -->
 ![](attachments/plan.jpeg)
 - 사업계획은 변경될 수 있습니다.
-
-
