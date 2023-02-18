@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 주요일정
-nav_order: 4 
+nav_order: 4
 parmalink: /schedule
 ---
 # 2023년 주요일정
@@ -12,3 +12,6 @@ parmalink: /schedule
 | 1월 6일 (금) 6:00 | 특별새벽기도 | 3남 합동 |
 | 1월 15일 (일) 12:30 | 크리스마스트리 철거 | 우천취소 |
 | 1월 22일 (일) 12:30 | 방학 | 설연휴 |
+
+## 연간 사업계획
+![](attachments/plan.jpeg)
