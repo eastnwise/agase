@@ -6,7 +6,7 @@ description: "자양교회 아가세 아름다운 가정을 세우는 젊은부�
 permalink: /
 ---
 
-![](attatchments/log.png)
+![](attatchments/logo.png)
 # 2023 아가세 2부
 {: .fs-9 }
 
